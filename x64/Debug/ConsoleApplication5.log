@@ -1,0 +1,3 @@
+﻿  MaxFlowSolver.cpp
+C:\Users\focal\source\repos\ConsoleApplication5\ConsoleApplication5\MaxFlowSolver.cpp(187,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication5.vcxproj -> C:\Users\focal\source\repos\ConsoleApplication5\x64\Debug\main.exe
